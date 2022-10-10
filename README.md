@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Ramon Rodrigues, an Economic Science student at the Federal University of Sergipe (UFS),creator and director of EIDIOS. 
-A project focused on the virtual market, presence and material, where graphic representations and technological systems are 
-not intended for the communication market between companies and auxiliary people.
+A project focused on the virtual market, presence and material, where graphic representations and technological systems are intended 
+for the communication market between companies and auxiliary people.
 
 - 👀 I’m interested in HTML, CSS, Python and Javascript.
 - 🌱 I’m currently learning Python and machine learning.
